@@ -28,7 +28,7 @@ The repository is structured to reflect the complete development lifecycle, from
     * Integrating the HLS IP with the Zynq Processing System (PS) via AXI4 interconnects.
     * Configuring hardware constraints and generating the bitstream for the ZedBoard.
 
-### 📂 [04_Vitis_IDE_App](./04_Vitis_IDE)
+### 📂 [04_Vitis_IDE_App](./04_Vitis_ide)
 * **Objective**: Embedded Software Deployment.
 * **Activities**: 
     * Developing the final C application to manage data flow between the ARM processor and FPGA logic.
