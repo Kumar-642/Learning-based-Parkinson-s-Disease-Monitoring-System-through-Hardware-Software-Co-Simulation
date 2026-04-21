@@ -1,4 +1,4 @@
-# Learning-Based Parkinson's Disease Monitoring System
+# Parkinson's Monitoring System
 ### Hardware-Software Co-Design on Zynq-7000 SoC (ZedBoard)
 
 ## 📌 Project Overview
