@@ -167,7 +167,7 @@ The repository is structured to reflect the complete development lifecycle, from
 
 <p align="center">
   <em>
-    Implemented Vivado desig.
+    Implemented Vivado design.
   </em>
 </p>
 
