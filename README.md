@@ -42,6 +42,107 @@ The repository is structured to reflect the complete development lifecycle, from
 * **Software Stack**: Vivado ML, Vitis HLS, Vitis IDE, and Google Colab (Python 3)
 
 ---
+
+# Dataset Description
+
+The project uses the **HandPD Dataset**, a publicly available handwriting dataset designed for Parkinson’s Disease detection through spiral and meander drawing analysis.
+
+---
+
+## Dataset Overview
+
+The dataset contains handwritten drawings collected from two groups:
+
+- **Healthy Control (HC)**
+- **Parkinson’s Disease Patients (PD)**
+
+The dataset includes:
+- Spiral drawings
+- Meander drawings
+
+These handwriting tasks are commonly used for evaluating motor impairments associated with Parkinson’s Disease.
+
+---
+
+## Dataset Statistics
+
+| Category | Number of Subjects |
+|---|---|
+| Healthy Control (HC) | 18 |
+| Parkinson’s Disease (PD) | 74 |
+| Total Subjects | 92 |
+
+---
+
+## Image Distribution
+
+| Drawing Type | Total Images |
+|---|---|
+| Spiral Images | 368 |
+| Meander Images | 368 |
+| Total Images | 736 |
+
+---
+
+## Input Preprocessing
+
+Before training and deployment:
+
+- Images were resized to **128×128 grayscale**
+- Pixel values were normalized to the range **[0,1]**
+- Dataset split:
+  - **80% Training**
+  - **20% Validation**
+
+---
+
+## Sample Handwriting Images
+
+### Healthy Subject
+
+<p align="center">
+  <img src="Images/HandPD_H.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <em>Spiral drawing from a healthy control subject.</em>
+</p>
+
+---
+
+### Parkinson’s Disease Subject
+
+<p align="center">
+  <img src="Images/HANDPD_PD.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <em>Spiral drawing from a Parkinson’s Disease patient showing tremor irregularities.</em>
+</p>
+
+---
+
+## Dataset Purpose
+
+The dataset is used to train and evaluate the lightweight CNN model for:
+
+- Parkinson’s Disease classification
+- Real-time embedded inference
+- FPGA-based healthcare deployment
+
+The handwriting patterns help identify:
+- Tremors
+- Stroke irregularities
+- Motor coordination impairments
+
+which are key indicators of Parkinson’s Disease.
+
+---
+
+## Reference
+
+HandPD Dataset:
+https://archive.ics.uci.edu/ml/datasets/Handwritten+digits
 # Images and Results
 
 ---
