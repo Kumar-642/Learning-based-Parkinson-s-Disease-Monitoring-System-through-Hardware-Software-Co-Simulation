@@ -98,7 +98,7 @@ Before training and deployment:
 
 ## Sample Handwriting Images
 
-### Healthy Subject
+### Spiral Healthy Sample
 
 <p align="center">
   <img src="Images/HandPD_H.jpg" width="300"/>
@@ -110,7 +110,7 @@ Before training and deployment:
 
 ---
 
-### Parkinson’s Disease Subject
+### Spiral Parkinson’s Sample
 
 <p align="center">
   <img src="Images/HANDPD_PD.jpg" width="300"/>
