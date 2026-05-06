@@ -264,6 +264,8 @@ The model utilizes optimized CNN layers to identify tremors with high precision.
 
 ---
 ## Contact
-For any information contact:
-Anchal Kumar Chaubey
-email: anck642@gmail.com
+
+For any information or collaboration regarding this project:
+
+**Anchal Kumar Chaubey**  
+📧 Email: anck642@gmail.com
