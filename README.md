@@ -261,3 +261,9 @@ The repository is structured to reflect the complete development lifecycle, from
 
 ## 📊 Performance
 The model utilizes optimized CNN layers to identify tremors with high precision. Detailed accuracy charts and loss curves are located in the [01_ML_Model_Python](./01_ML_Model_Python) folder.
+
+---
+## Contact
+For any information contact:
+Anchal Kumar Chaubey
+email: anck642@gmail.com
