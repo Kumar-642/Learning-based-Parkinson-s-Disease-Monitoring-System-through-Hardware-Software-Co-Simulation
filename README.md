@@ -159,7 +159,7 @@ The repository is structured to reflect the complete development lifecycle, from
 
 ---
 
-## Simplified SoC Architecture
+## Vivado Design
 
 <p align="center">
   <img src="Images/vivado_design.png" width="750"/>
@@ -167,7 +167,7 @@ The repository is structured to reflect the complete development lifecycle, from
 
 <p align="center">
   <em>
-    Simplified AXI-based Zynq SoC architecture integrating Processing System and CNN accelerator.
+    Implemented Vivado desig.
   </em>
 </p>
 
