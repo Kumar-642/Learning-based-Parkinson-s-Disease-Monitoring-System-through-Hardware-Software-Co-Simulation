@@ -121,7 +121,7 @@ Before training and deployment:
 </p>
 
 ---
-## Meander Healthy Sample
+### Meander Healthy Sample
 
 <p align="center">
   <img src="Images/meander_hc.jpg" width="350"/>
@@ -135,7 +135,7 @@ Before training and deployment:
 
 ---
 
-## Meander Parkinson’s Sample
+### Meander Parkinson’s Sample
 
 <p align="center">
   <img src="Images/meander_pd.jpg" width="350"/>
