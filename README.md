@@ -121,6 +121,34 @@ Before training and deployment:
 </p>
 
 ---
+## Meander Healthy Sample
+
+<p align="center">
+  <img src="Images/meander_hc.jpg" width="350"/>
+</p>
+
+<p align="center">
+  <em>
+    Meander drawing pattern from a healthy subject.
+  </em>
+</p>
+
+---
+
+## Meander Parkinson’s Sample
+
+<p align="center">
+  <img src="Images/meander_pd.jpg" width="350"/>
+</p>
+
+<p align="center">
+  <em>
+    Meander drawing pattern from a Parkinson’s Disease patient.
+  </em>
+</p>
+
+
+---
 
 ## Dataset Purpose
 
