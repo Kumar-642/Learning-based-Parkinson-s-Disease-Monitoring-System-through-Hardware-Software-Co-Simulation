@@ -159,6 +159,20 @@ The repository is structured to reflect the complete development lifecycle, from
 
 ---
 
+## Simplified SoC Architecture
+
+<p align="center">
+  <img src="Parkinson's_Predict_IP/design_1.pdf" width="750"/>
+</p>
+
+<p align="center">
+  <em>
+    Simplified AXI-based Zynq SoC architecture integrating Processing System and CNN accelerator.
+  </em>
+</p>
+
+---
+
 ## Workflow Diagram
 
 <p align="center">
